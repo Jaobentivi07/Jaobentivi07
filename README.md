@@ -6,7 +6,7 @@
 
 #
 
-Me chamo João Henrique, tenho 18 anos e moro em Belo Horizonte - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia, curioso sobre estudos de Softaware.
+Me chamo João Henrique, tenho 18 anos e moro em Belo Horizonte - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia, curioso sobre estudos de Softaware. / My name is João Henrique, I am 18 years old, and I live in Belo Horizonte, MG. I am currently studying Systems Analysis and Development at Proz Educação. I am passionate about technology and curious about the study of software.
 
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/57658ebc-1bb1-4924-9023-7a2f4cf92e80" />
 
